@@ -19,12 +19,16 @@ Linux için:
   code .       
 ```
 
-# Contributing
+## Contributing
 ----
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# License 
+## License 
 ----
 [MIT](https://opensource.org/licenses/MIT)
+
+## İmage
+---
+![İmage](https://kodluyoruz.org/wp-content/uploads/2022/05/a0d5d919e567c1ca122529eea4a6350ac2997198-926x749-1.webp)
 
 
